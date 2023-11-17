@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.popup-content {
+  padding: 20px;
+  background-color: white;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+}
+.icon {
+  align-self: flex-end;
+}
